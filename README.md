@@ -1,5 +1,4 @@
 # About-Java-Newbie
-Hello, Iam Beginner :)
-All About Java
+Hello, I am Beginner :)
 
 Here, I will playing with Java Programming Language
